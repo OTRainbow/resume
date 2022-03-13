@@ -20,6 +20,9 @@ h1, h2, h3, h4 {
 }
 
 .resume-container {
+    position: relative;
+    margin: auto;
+    max-width: 1000px;
     background-color: var(--color-2);
     padding: 16px;
     border-radius: 4px;
